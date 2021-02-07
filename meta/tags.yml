@@ -11,3 +11,9 @@ tags:
     name: mdx
   - slug: markdown
     name: markdown
+  - slug: tag-test1
+    name: タグテスト1
+  - slug: tag-test2
+    name: タグテスト２
+  - slug: tag-test3
+    name: タグテスト3
