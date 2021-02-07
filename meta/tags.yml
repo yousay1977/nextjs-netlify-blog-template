@@ -13,3 +13,5 @@ tags:
     name: markdown
   - slug: tag-test1
     name: タグテスト1
+  - slug: tag-test2
+    name: タグテスト２
